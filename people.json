@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kim",
+    "avatar": "http://fi.realself.com/images/about/team/headshots/team-kim.jpg",
+    "city": "Madison, WI",
+    "tz": "America/Chicago"
+  },
+  {
+    "name": "Sharon",
+    "avatar": "http://fi.realself.com/images/about/team/headshots/team-sharon.jpg",
+    "city": "Newcastle upon Tyne, UK",
+    "tz": "Europe/London"
+  }
+]
