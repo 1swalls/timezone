@@ -1,3 +1,5 @@
+[ ![Codeship Status for 1swalls/timezone](https://codeship.com/projects/ae4c29b0-99b0-0132-090e-4a82b032eee7/status?branch=master)](https://codeship.com/projects/63709)
+
 # Timezone
 
 Timezone is an application aimed at helping remote teams by making it easier
