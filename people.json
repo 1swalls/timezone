@@ -46,5 +46,29 @@
     "avatar": "http://fi.realself.com/images/about/team/headshots/team-jill.jpg",
     "city": "Breckenridge, CO",
     "tz": "America/Denver"
+  },
+  {
+    "name": "Dawn",
+    "avatar": "http://fi.realself.com/images/about/team/headshots/team-dawn.jpg",
+    "city": "Seattle, WA",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Sujin",
+    "avatar": "http://fi.realself.com/images/about/team/headshots/team-sujin.jpg",
+    "city": "Seattle, WA",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Cathy",
+    "avatar": "http://fi.realself.com/images/about/team/headshots/team-cathy.jpg",
+    "city": "Seattle, WA",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Alicia",
+    "avatar": "http://fi.realself.com/images/about/team/headshots/management-alicia.jpg",
+    "city": "Seattle, WA",
+    "tz": "America/Los_Angeles"
   }
 ]
